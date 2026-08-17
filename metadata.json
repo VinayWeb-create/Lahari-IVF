@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Institute of Reproductive Medicine & IVF",
+  "description": "Next-generation fertility & IVF healthcare platform featuring AI diagnosis, interactive clinical calculators, journey timelines, doctor video consultations, and transparent EMI cost estimators.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
